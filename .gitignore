@@ -1,0 +1,10 @@
+# Exclude build files 
+ART/dossier_art.*
+!ART/dossier_art.pdf 
+!ART/dossier_art.tex
+
+SPORT/dossier_SPORT.*
+!SPORT/dossier_sport.pdf
+!SPORT/dossier_sport.pdf
+
+.DS_Store
