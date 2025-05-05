@@ -7,4 +7,9 @@ SPORT/dossier_SPORT.*
 !SPORT/dossier_sport.pdf
 !SPORT/dossier_sport.pdf
 
+MUSIQUE/dossier_musique.*
+!MUSIQUE/dossier_musique.pdf
+!MUSIQUE/dossier_musique.tex
+
+
 .DS_Store
